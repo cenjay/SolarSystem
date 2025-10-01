@@ -25,6 +25,7 @@ img{
   align-items: center;
   justify-content: center;
   position: absolute;
+  background-image: url('pic/sun.png');
   top: 15em;
   left: 15em;
   width: 10em;
@@ -248,6 +249,7 @@ img{
     transform: rotate(360deg);
   }
 }
+
 
 
 
